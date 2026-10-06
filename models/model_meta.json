@@ -1,0 +1,16 @@
+{
+  "threshold": 0.58,
+  "tiers": [
+    0.25,
+    0.5
+  ],
+  "test_metrics": {
+    "ROC-AUC": 0.847,
+    "PR-AUC": 0.665,
+    "Accuracy": 0.748,
+    "Precision": 0.516,
+    "Recall": 0.802,
+    "F1": 0.628
+  },
+  "churn_rate": 0.2654
+}
